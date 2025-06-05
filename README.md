@@ -13,7 +13,7 @@ A brief description of your project and its purpose.
 
 ## Demo
 
-You can view the live demo of this project at: [https://<gundu-ashritha20>.github.io/<Elevatelabs-task7>/](https://<gundu-ashritha20>.github.io/<Elevatelabs-task7>/)
+You can view the live demo of this project at:(https://gundu-ashritha20.github.io/Elevatelabs-task7/)
 
 ## Features
 
